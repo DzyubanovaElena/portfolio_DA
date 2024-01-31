@@ -2,7 +2,7 @@
 
 |название:|цель и задачи:| инструменты:|
 |:--|:--|:-- |
-|[Анализ авторынка Казахстана](https://github.com/DzyubanovaElena/portfolio_DA/blob/main/Aif)|EDA, общий анализ рынка, анализ компании Меркур Авто |pandas,numpy, seaborn, matplotlib, plotly |
+|[Анализ авторынка Казахстана](https://github.com/DzyubanovaElena/portfolio_DA/tree/main/car_market_Kazakhstan)|EDA, общий анализ рынка, анализ компании Меркур Авто |pandas,numpy, seaborn, matplotlib, plotly |
 |[БФ "АиФ Доброе сердце"](https://github.com/DzyubanovaElena/portfolio_DA/blob/main/Aif)|Сегментирование пользователей. Расчет маркетинговых показателей|pandas,numpy, seaborn, matplotlib, plotly, power bi |
 |[dashboard Shans](https://github.com/DzyubanovaElena/portfolio_DA/tree/main/Shans)|Дашборд для Благотворительного Фонда "Арифметика Добра" |Datalens |
 |[AB_test](https://github.com/DzyubanovaElena/portfolio_DA/tree/main/AB_test)|Проверка проведенного А/Б теста, приоретизация гипотез| pandas, numpy, matplotlib|
